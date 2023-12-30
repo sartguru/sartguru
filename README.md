@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sartguru
-- 👀 I’m interested in ...Python 
-- 🌱 I’m currently learning ...Flutter
-- 💞️ I’m looking to collaborate on ...Software development 
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Data Analytics 
+- 🌱 I’m currently learning ...R
+- 💞️ I’m looking to collaborate on ...Data Analysis projects 
+- 
 
 <!---
 sartguru/sartguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
